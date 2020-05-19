@@ -1,0 +1,218 @@
+ html {
+    background-color: rgb(253, 248, 171);
+}
+
+
+ body{
+	 
+	font-family: arial,sans-serif;
+	background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(75, 75, 75);
+    width: 760px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+    box-shadow: 0 0 15px 5px rgba(44, 82, 100, .75);
+
+	   }
+
+
+
+header.line{
+	background-color: blue;
+	text-align: center;
+	font-style: 0.2em;
+
+  
+}
+hr{
+	color: blue;
+	border-width: 2px;
+}
+h1.center{
+	text-align: center
+	background-color: yellow;
+	
+}
+
+
+
+nav.menu  ul li.tc{
+	list-style-type: none;
+	display: inline-block;
+
+}
+nav.menu  ul li.tc a{
+	color: white;
+	text-decoration: none;
+	background-color: red;
+	font-size: 40px;
+    text-align: center;
+}
+
+
+
+nav.menu ul li:hover a{
+	color:red;
+	background-color: white;
+	transition: 0.9;
+}
+
+
+ul{
+	background-color: green;
+	word-spacing: 2em;
+	text-align: center;
+	text-align: top;
+
+
+}
+section{
+	text-align: center;
+	margin: 100px;
+	
+
+}
+#align {
+	float: left;
+	margin-right: 15px;
+	margin: 0;
+	border-color: red;
+	
+
+}
+p.inline{
+	border: solid green;
+    max-width: 90ex;
+    text-align: center;
+}
+
+	   div.centre{
+	   	text-align: center;
+	   	
+
+	   }
+
+	   h1{
+	   	text-decoration: underline;
+	   	text-align: center;
+	   	background-color: yellow;
+
+	   }
+	   p.pos{
+	color: white;
+	text-align: center;
+	background-color: green;
+	
+}
+div.form{
+	text-align: center;
+	background-color: green;
+	margin: 100px;
+	}
+	form{
+	background-color: yellow;
+	text-align: center;
+}
+
+	h3{
+	background-color: green;
+	text-align: center;
+	margin: 100px;
+}
+
+td {
+	
+	   border: 2px solid black;
+	   text-align: center;
+	   margin: 100px
+	   }
+	   
+	   table{
+	   border-collapse: collapse;
+	    border: 2px solid black;
+	    font-style: : center;
+	    margin: 100px;
+	    background-color: yellow;
+	   }
+	   th{
+            border:3px solid black;
+            text-align: left;
+        }
+        caption{
+        	color: green;
+        }
+        div.border{
+	    border-style: solid;
+	    border-width: 6px;
+	    border-color: red;
+	   	text-align: center;
+	   	margin: 100px;
+	   	background-color: green;
+	   	padding: 10px;
+	   }
+	   p.me{
+	color: #F6FEFD;
+	font-family: "Timees new roman"
+	font-size:1.3em;
+	font-style: italic;
+	background-color: red;
+	text-align: center;
+}
+	
+iframe{
+	margin: 35px;
+}
+
+
+.auto{
+	background-color: white;
+}
+
+	   .me{
+	   	background-color: yellow;
+	   }
+
+	 
+	   div.vert{
+	   	text-align: center;
+	   	margin: 100px;
+	   	background-color: green;
+	   }
+
+	   
+	   
+
+	   
+	   h4{
+	   	text-align: center;
+	   }
+	
+
+	   
+
+
+
+	   p.ty{
+	   	color:white;
+	   }
+	   a{
+	 
+	   	text-decoration: none;
+	   	color: orange;
+	   
+	   }
+
+
+
+footer{
+	background-color: yellow;
+	
+}
+
+
+
+
+
